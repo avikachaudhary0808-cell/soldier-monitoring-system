@@ -30,7 +30,7 @@ The system tracks soldiers' health, risk levels, and live location with interact
 
  Backend
 - Node.js + Express API
-- MongoDB database for storing soldier data
+- MongoDB database for storing soldier data 
 - Seed script to generate sample soldiers
 
 ---
